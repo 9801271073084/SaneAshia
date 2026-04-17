@@ -1,5 +1,5 @@
 #include <iostream>
-Using namespace std
+using namespace std
 
 Int main() {
 // Write C++ code here
